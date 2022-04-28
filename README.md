@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My coding has been a bit neglected in recent times, feel free to have a look around though 🚀
+
+Find out what I'm up to on [my new website](https://jonaschaefer.com) or [LinkedIn](https://linkedin.com/in/jonas-schaefer/)!
+
 <!--
 **j0ner0n/j0ner0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
